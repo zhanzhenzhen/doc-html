@@ -7,7 +7,7 @@ Two features:
 
 If you are writing a manual/documentation of your project but find Markdown is too simple and HTML is too complicated/ugly, you have come to the right place!
 
-Put this on the top of all your script elements:
+Put this before all other script elements:
 
 ```html
 <script src="doc-html.js" type="text/javascript"></script>
