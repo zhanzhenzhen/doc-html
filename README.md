@@ -5,7 +5,7 @@ Two features:
 - prettify `<pre>`
 - switch between multiple human languages, or multiple programming languages
 
-If you are writing a manual / documentation of your project but find Markdown is too simple and HTML is too complicated / ugly, you have come to the right place!
+If you are writing a manual/documentation of your project but find Markdown is too simple and HTML is too complicated/ugly, you have come to the right place!
 
 Usage:
 
