@@ -13,7 +13,7 @@ Usage:
 <script src="doc-html.js" type="text/javascript"></script>
 ```
 
-It's fully client-side. Don't use it for any server-side purposes!
+It's fully browser-side. Don't use it for any server-side purposes.
 
 # `<pre>` indentation
 
