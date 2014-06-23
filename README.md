@@ -7,6 +7,14 @@ Two features:
 
 If you are writing a manual / documentation of your project but find Markdown is too simple and HTML is too complicated / ugly, you have come to the right place!
 
+Usage:
+
+```html
+<script src="doc-html.js" type="text/javascript"></script>
+```
+
+It's fully client-side. Don't use it for any server-side purposes!
+
 # `<pre>` indentation
 
 It will detect indentation in `<pre>` elements and display them correctly.
@@ -48,6 +56,6 @@ All elements with these 4 class names will be toggled.
 
 # Real page example
 
-It's used by my "wishlist" manual page:
+It's used by my "wishlist" tutorial:
 
-[Click to see](http://zhanzhenzhen.github.io/wishlist/) (this HTML page is purely hand-written).
+[Click to see](http://zhanzhenzhen.github.io/wishlist/) (this HTML page is fully hand-written).
