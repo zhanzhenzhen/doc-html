@@ -1,7 +1,7 @@
 {
     "name": "doc-html",
     "version": "0.1.0",
-    "description": "For writing an HTML page that can switch between multiple human languages (or multiple programming languages). Also can prettify white spaces in <pre>. Purely client-side.",
+    "description": "For writing an HTML page that can switch between multiple human languages (or multiple programming languages). Also can prettify white spaces in <pre>. Purely browser-side.",
     "keywords": [
         "multilingual", "languages", "programming", "international", "globalization",
         "localization", "internationalization", "localize", "multiple", "pre"
